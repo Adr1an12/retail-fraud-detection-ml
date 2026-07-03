@@ -62,8 +62,7 @@ projeto-fraude-varejo/
 
 ├── README.md
 ├── fraud_detection.ipynb
-├── retail_fraud_detection_100k.csv
-└── requirements.txt
+└── retail_fraud_detection_100k.csv
 ```
 
 ---
